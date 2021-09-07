@@ -1,5 +1,3 @@
-#-*- coding: utf-8 -*-
-# https://hyun-am-coding.tistory.com/entry/%ED%81%AC%EB%A1%A4%EB%A7%81%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-DB%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EA%B8%B0?category=778333
 # 크롤링한 값 DB에 저장하기 - 멜론 사이트 탑 100 데이터 크롤링, 데이터 베이스.
 
 # win + r -> cmd -> mysql -u root -p 를 통해 mysql 접속
