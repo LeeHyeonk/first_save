@@ -1,5 +1,5 @@
 # first_save
-포트폴리오 용 코드 저장소
+코드 저장소
 
 [MySQL] CODE TEST1.sql                    
   -> MySQL을 기준으로 작성
