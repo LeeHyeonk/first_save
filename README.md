@@ -1,11 +1,7 @@
 # first_save
 코드 저장소
 
-[MySQL] CODE TEST1.sql                    
-  -> MySQL을 기준으로 작성
-  -> 프로그래머스 사이트의 SQL 문제 풀이 답
-[MySQL] CODE TEST2.sql
-  -> MySQL을 기준으로 작성
+[MySQL] CODE TEST1 ~ 3.sql                    
   -> 프로그래머스 사이트의 SQL 문제 풀이 답
 
 [python+mysql] melon chart.py
